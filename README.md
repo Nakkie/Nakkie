@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nakkie
-- 👀 I’m interested in software development and architecture
-- 🌱 I’m currently learning RedHat Architecture
-- 💞️ I’m looking to collaborate on nothing atm
+- 👀 I’m interested in software development and architecture, but I LURVE data
+- 🌱 I’m currently learning nothing
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me... still working on that
 
 <!---
